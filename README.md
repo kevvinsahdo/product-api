@@ -3,11 +3,14 @@
 ## Requirements
 
 - [Docker](https://docs.docker.com/engine/install/ubuntu/) >= 19.03.8
-- [docker-compose](https://docs.docker.com/compose/install) >= 1.23.2
+
+## Build
+
+Execute `make build`
 
 ## Running
 
-Execute `docker-compose up`
+Execute `make up`
 
 ## Docs
 
